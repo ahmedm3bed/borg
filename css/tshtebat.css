@@ -1,0 +1,25 @@
+.ic{
+    height: 42em;
+
+}
+
+.article{
+    text-align: center;
+}
+@media (min-width:992px) {
+    .article{
+        text-align: right!important;
+    }
+    
+}
+/* span{
+    white-space: nowrap;
+} */
+ h3.projects::before{
+    height:0 ;
+
+ }
+ h3.projects{
+    box-shadow: 0 0 5px;
+    padding-top: 20px;
+ }
